@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**shishaoyan/shishaoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
   <a href=" ">
     < img src="https://github-readme-stats.wasabeef.vercel.app/api?username=Omooo&show_icons=true&line_height=21&show_icons=true&theme=vue" />
@@ -10,10 +5,10 @@
 </p >
 
 <p align="center">
-  <a href="https://github.com/Omooo/Android-Notes">
+  <a href="https://github.com/">
     < img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
   </a >  
-  <a href="https://github.com/Omooo">
-    < img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
+  <a href="https://github.com/shishaoyan">
+    < img src="https://komarev.com/ghpvc/?username=shishaoyan&color=brightgreen" />
   </a >  
 </p >
